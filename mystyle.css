@@ -1,0 +1,16 @@
+body {
+    background-color: #95b89f;
+  }
+  
+  h1 {
+    color: #111111;
+    font-family: Helvetica, sans-serif;
+    margin-top: 60px;
+    margin-left: 100px;
+  }
+
+  p {
+      color: #111111;
+      font-family: Helvetica, sans-serif;
+      margin-left: 100px;
+  }
